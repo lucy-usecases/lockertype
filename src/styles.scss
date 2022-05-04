@@ -1,0 +1,24 @@
+table {
+    font-family: arial, sans-serif;
+
+    width: 100%;
+  }
+  tr:hover {background-color: #ddd;}
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    background-color: #04AA6D;
+    color: white;
+    
+  }
+  .tableItem{
+    display: flex;
+  }
+  td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  .addType{
+    transform: rotate(45deg);
+  }

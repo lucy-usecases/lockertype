@@ -1,0 +1,22 @@
+{
+    "id": "a6c20b77-a26d-43fc-ec05-2c0d47e9a46a",
+    "author": "",
+    "widgets": [
+        {
+            "id": "LockerType",
+            "name": "LockerType",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}

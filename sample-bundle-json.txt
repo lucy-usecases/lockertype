@@ -1,0 +1,37 @@
+{
+    "id": "32ee4d94-7f26-4295-e5a5-5699e9f75d4b",
+    "author": "",
+    "widgets": [
+        {
+            "id": "LockerType",
+            "name": "LockerType",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "LockerTypeLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "LockerTypeLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "LockerTypeLink",
+            "title": "LockerType"
+        }
+    ]
+}
